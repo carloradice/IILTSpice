@@ -1,6 +1,7 @@
 Version 4
 SymbolType BLOCK
 RECTANGLE Normal -80 -48 81 80
+TEXT -71 102 Left 2 decoder 2x4
 WINDOW 0 0 -56 Bottom 2
 PIN -80 0 LEFT 8
 PINATTR PinName SEL0

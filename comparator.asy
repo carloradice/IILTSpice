@@ -1,8 +1,8 @@
 Version 4
 SymbolType BLOCK
 RECTANGLE Normal 96 -80 -80 80
-TEXT -58 96 Left 2 comparator
-WINDOW 0 8 -88 Bottom 2
+TEXT -58 -104 Left 2 comparator
+WINDOW 0 8 -122 Bottom 2
 PIN -80 -64 LEFT 8
 PINATTR PinName A0
 PINATTR SpiceOrder 1
